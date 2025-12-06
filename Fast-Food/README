@@ -1,1 +1,53 @@
+Português (Brasil)
+# 📊 Análise de Dados do Setor de Fast-Food
+
+Este repositório reúne arquivos e scripts utilizados para analisar dados financeiros e operacionais de empresas do setor de fast-food.  
+O projeto integra **Power BI**, **Python** e **Excel**, formando um fluxo completo de limpeza, modelagem, análise e visualização de dados.
+
+## 📁 Estrutura do Repositório
+
+- **Fast-Food_Final.xlsx** — Base de dados original  
+- **Fast-Food_PowerBI_Final.pbix** — Relatório desenvolvido no Power BI  
+- **Logos.py** — Script Python utilizado no PyCharm
+
+## 🧠 Objetivo do Projeto
+
+O objetivo principal é consolidar informações financeiras — como vendas totais, receita média por unidade e valores expressos em milhões ou milhares de dólares — 
+e transformá-las em insights visuais e analíticos.
+
+## 🔗 Fonte dos Dados
+
+Os dados utilizados neste projeto foram obtidos a partir do conjunto de dados público disponível no Kaggle:
+
+**Top 50 Fast-Food Chains in USA**  
+https://www.kaggle.com/datasets/iamsouravbanerjee/top-50-fastfood-chains-in-usa
+
+O dataset reúne informações financeiras e operacionais das maiores redes de fast-food dos Estados Unidos.
+
+
+English (US)
+# 📊 Fast-Food Industry Data Analysis
+
+This repository contains the files and scripts used to analyze financial and operational data from companies in the fast-food industry.  
+The project integrates **Power BI**, **Python**, and **Excel**, creating a complete workflow for data cleaning, modeling, analysis, and visualization.
+
+## 📁 Repository Structure
+
+- **Fast-Food_Final.xlsx** — Original dataset  
+- **Fast-Food_PowerBI_Final.pbix** — Power BI report  
+- **Logos.py** — Python script used in PyCharm
+
+## 🧠 Project Purpose
+
+The main goal is to consolidate financial information — such as total sales, average sales per unit, and values expressed in millions or thousands of U.S. dollars — 
+and transform it into visual and analytical insights.
+
+## 🔗 Data Source
+
+The data used in this project was obtained from the public dataset available on Kaggle:
+
+**Top 50 Fast-Food Chains in USA**  
+https://www.kaggle.com/datasets/iamsouravbanerjee/top-50-fastfood-chains-in-usa
+
+The dataset contains financial and operational information about the largest fast-food chains in the United States.
 
